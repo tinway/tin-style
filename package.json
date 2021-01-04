@@ -1,0 +1,19 @@
+{
+  "name": "tin-style",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tinway/tin-style.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tinway/tin-style/issues"
+  },
+  "homepage": "https://github.com/tinway/tin-style#readme"
+}
